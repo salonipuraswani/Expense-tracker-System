@@ -1,0 +1,6 @@
+com\example\LoginTest.class
+com\example\SignupTest.class
+com\example\UpdateExpenseTest.class
+com\example\ViewExpenseTest.class
+com\example\DeleteExpenseTest.class
+com\example\AddExpenseTest.class
